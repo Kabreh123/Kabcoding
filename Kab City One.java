@@ -1,6 +1,6 @@
-class static {
-    void main {
-        println('Hello world')
+class KabCityOne {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
     }
 }
 
