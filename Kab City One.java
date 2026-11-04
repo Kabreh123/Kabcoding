@@ -57,7 +57,8 @@ void draw()
   
   rect(645, 45, 10, 10);
   
-  
+  rect(622, 54, 15, 10);
   
   circle(mouseX,mouseY,35);
+
 }
